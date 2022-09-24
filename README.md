@@ -2,7 +2,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Neelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neelima-yarasi-9503b0251//)](https://www.linkedin.com/in/neelima-yarasi-9503b0251/)
-
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Neelima-yellow)](https://stackoverflow.com/users/20066909/neelima-)
 
 I'm
